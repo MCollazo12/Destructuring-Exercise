@@ -12,16 +12,15 @@ The code will return:
 
 Array Destructuring 1:
 The code will return:
-1) "Maya"
-2) "Marisa
+1) Maya
+2) Marisa
 3) Chi
 
 Array Destructuring 2:
 The code will return:
 1) Raindrops on roses
 2) whiskers on kittens
-3) 'Bright copper kettles', 'warm woolen mittens',
-'Brown paper packages tied up with strings'
+3) 'Bright copper kettles', 'warm woolen mittens', 'Brown paper packages tied up with strings'
 
 Array Destructuring 3:
 The code will return 10, 30, 20
